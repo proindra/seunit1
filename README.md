@@ -1066,3 +1066,288 @@ For the team, integrity comes from:
 
 
 
+| **Point** | <p>**Scrum**</p><p> 🔄</p> | <p>**XP (Extreme Programming)**</p><p> ⚡</p> |
+| ----- | ----- | ----- |
+| **Type** | Agile framework | Agile methodology |
+| **Main Focus** | **Project/work management** | **Software development & code quality** |
+| **Team** | Scrum Team | Small/medium development team |
+| **Work Cycle** | **Sprint** | **Iteration** |
+| **Planning** | Sprint Planning | Planning Game → Release + Iteration Planning |
+| **Customer** | Product Owner represents customer needs | <p>**Onsite Customer**</p><p> works closely with team</p> |
+| **Requirements** | Product Backlog | User Stories |
+| **Testing** | Testing is part of development | <p>**TDD**</p><p> — test before coding</p> |
+| **Coding Practices** | Not specifically emphasized in your PPT | **Pair Programming, Refactoring, Code Standards** |
+| **Code Ownership** | Not specifically mentioned | **Collective Code Ownership** |
+| **Integration** | Not specifically emphasized | **Continuous Integration** |
+| **Release** | Working increment after Sprint | **Small/frequent releases** |
+| **Change** | Adapt to changing requirements | <p>Strong emphasis on </p><p>**embracing change**</p> |
+| **Main idea** | **Manage the work efficiently** | **Build quality software efficiently** |
+### 🧠 Very Easy Difference
+**Scrum → “How do we organize and manage the work?”**
+ **XP → “How do we develop high-quality software?”**
+
+### 🎤 Viva Answer
+>  **Scrum and XP are both Agile approaches. Scrum mainly focuses on managing and organizing development work through roles, backlogs, Sprints and Scrum activities, while XP focuses more on engineering practices such as TDD, pair programming, refactoring, coding standards and continuous integration.**  
+
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_O9K1pfsL24UjhobKdBiz_.png?ixlib=js-3.8.0 "image.png")
+
+### Requirements Engineering 📋
+- **Requirement** = What the software **must do/have** to solve a problem. 
+-  It specifies **WHAT**, not **HOW**. 
+- **Requirements Engineering** is the **first step** in software development. 
+-  It is **difficult, costly, and error-prone**. 
+- **Requirement errors are expensive to fix later.**
+👉 **Remember:** **Requirement = WHAT, not HOW.**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_ouvJW2eZCZw-YRwg24ZCS.png?ixlib=js-3.8.0 "image.png")
+
+| Property | Meaning |
+| ----- | ----- |
+| **Clear** | Easy to understand |
+| **Concise** | <p>Describes a </p><p>**single property**</p> |
+| **Quantifiable** | Can be measured |
+| **Consistent** | Does not conflict with other requirements |
+| **Unambiguous** | Has only one clear meaning |
+| **Verifiable** | Can be checked/tested |
+| **Traceable** | Can be tracked back to its source |
+| **Feasible** | Possible to implement |
+| **Prioritized** | Importance is clearly defined |
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_z2DHRXbvGxecy5rCdIfxQ.png?ixlib=js-3.8.0 "image.png")
+
+The exercise teaches you to **change vague requirements into clear and testable ones**.
+
+-  ❌ **“Screens should appear quickly”** → ✅ **“Screen appears within 2 seconds.”**
+-  ❌ **“No disruption to production”** → ✅ **“Maximum 2 days disruption.”**
+-  ❌ **One requirement doing two things** → ✅ **Split into separate requirements.**
+-  ❌ **“System must be user-friendly”** → ✅ Give **specific UI features** that can be checked.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_TXEjf3PvsDRZyAQwKSHGt.png?ixlib=js-3.8.0 "image.png")
+
+### Properties of a Set of Requirements 📋
+A good **set of requirements** should be:
+
+- **Realistic** → Possible within the available **time and budget**. 
+- **Complete** → Contains **all necessary requirements**. 
+- **Correct** → Requirements accurately represent what is needed. 
+- **Modifiable** → Can be **changed easily** when needs change. 
+- **Ranked** → Requirements are prioritized by **importance or stability**. 
+### Why can requirements change?
+Because of:
+
+-  Changes in **customer needs**
+-  Better understanding by **developers**
+-  Changes in **organizational policies**
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_lMpk7IF4KTB7eQddzCJAR.png?ixlib=js-3.8.0 "image.png")
+
+This slide shows **factors that contribute to software project success**, based on a Standish report.
+
+The important point highlighted in your PPT is:
+
+>  **Customer/User Involvement is the 3rd highest factor of success.** 
+
+The table assigns **15 points (15% investment)** to User Involvement.
+
+### Simple meaning:
+If customers/users are **actively involved** in the project, the team can better understand their needs and build the right product.
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_I-dKXKEpA11jagQWL6D1R.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_uRjBv9aaYuvScOOJ9CWGj.png?ixlib=js-3.8.0 "image.png")
+
+
+
+| **Do’s ✅** | **Don’ts ❌** |
+| ----- | ----- |
+| <p>**Talk to customers**</p><p> to understand how they work and what they need.</p> | <p>Don’t make requirements </p><p>**too specific or detailed**</p><p>.</p> |
+| <p>**Ask questions**</p><p> to discover hidden requirements.</p> | <p>Don’t explain </p><p>**implementation complexity or logic**</p><p>.</p> |
+| <p>Understand </p><p>**“why”**</p><p>, not just “what”.</p> | <p>Don’t describe </p><p>**how**</p><p> the system will be implemented, including UX.</p> |
+| <p>Expect requirements to </p><p>**change**</p><p> during/after development.</p> | Don’t focus on implementation details too early. |
+|  | <p>Don’t add </p><p>**unnecessary features**</p><p> that customers didn’t ask for.</p> |
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_pdrhL63pJi8ZBPkSpvQ5R.png?ixlib=js-3.8.0 "image.png")
+
+**Requirements Engineering =** collecting, analyzing, documenting, and maintaining requirements.
+
+Three types:
+
+- **Functional** → What the system **does**
+- **Non-functional** → How well it **works** (security, privacy, scalability) 
+- **Constraints** → Rules/restrictions (language, framework, testing)
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_IdwZMn_KJOKhOqR-9fXtZ.png?ixlib=js-3.8.0 "image.png")
+
+### Feasibility Study — Short 📋
+**Feasibility Study** = A **short, low-cost study** to check whether a project is **practical and should be done**.
+
+-  Usually conducted **before starting the project**. 
+-  Produces a **Feasibility Report**. 
+-  Then the project gets **approval** before Requirements Engineering begins. 
+👉 **Remember:**
+ **Identify → Feasibility Study → Report → Approval → Requirements Engineering**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_hepnizU1F083kbFFeWjI4.png?ixlib=js-3.8.0 "image.png")
+
+### Activities in Feasibility Study — Short 📋
+A feasibility study checks whether the project is **practical and worth doing**.
+
+1. **Identify stakeholders** → Client, sponsor, and users. 
+2. **Study current solution** → Understand how the problem is currently solved. 
+3. **Study customers & market** → Target customers and future market. 
+4. **Identify benefits & scope** → What value and work the project will have. 
+5. **High-level solution** → Basic idea of how the solution will work. 
+6. **Technology** → Check suitable technologies. 
+7. **Marketing & finance** → Marketing strategy and financial projections. 
+8. **Schedule & budget** → High-level timeline and cost. 
+9. **Risks & constraints** → Identify issues, assumptions, risks, and limitations. 
+10. **Consider alternatives** → Compare possible solutions. 
+11. **Project organization** → Decide possible team/organization structure. 
+12. **Final decision** → **GO or NO-GO** ✅❌ 
+👉 **Remember:** **Study → Analyze → Plan → Evaluate → GO/NO-GO**.
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_iHBV_wBTt16c_eko2u097.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_-zZNcbaVMwOVJjbzy0-Tg.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_2A6vnntktRL4zJxCDUIBK.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_gGsKkp5loNfKBhE0yNWUD.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_UO54ifudY5SsC-WqjrCc6.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_73BmmkjgvvqLtOkytZ73l.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_z2-VBIWyI_XtJHCYTwZMH.png?ixlib=js-3.8.0 "image.png")
+
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_qp8qFCrnf21jfX3cLH2La.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_kjOxJjaXI-iDZPMduuLRY.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_lkWJAULUPy9p_VCH3ooh8.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_K0YxabLjAY6Kj2OKdakEw.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_ZTRpUuk3R7MPd6wX__c0S.png?ixlib=js-3.8.0 "image.png")
+
+**Functional requirements** describe **what the system should do** and how it should **react to inputs or situations**.
+
+-  Describe **system functions/services**. 
+-  Can also specify **what the system should NOT do**. 
+-  Depend on the **type of software, users, and system environment**. 
+**Examples:**
+
+-  Send a **confirmation email** after an order. 
+-  Allow visitors to **sign up for a newsletter**. 
+-  Allow users to **verify accounts using a phone number**.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_9vAYLdrpxP2lQKWsFmixA.png?ixlib=js-3.8.0 "image.png")
+
+**Requirements imprecision** means the requirement is **not clearly or precisely written**.
+
+-  It can be **interpreted differently** by developers and users. 
+-  This can lead to **misunderstanding and incorrect software**. 
+👉 **Example:**
+ ❌ “The system should respond quickly.”
+ What is **quickly**—1 second, 5 seconds, or 10 seconds?
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_fm6lvTu8cKO6wOi_p6dnR.png?ixlib=js-3.8.0 "image.png")
+
+### Requirements Completeness & Consistency — Short 📋
+- **Complete** → Requirements should include **all required facilities/features**. 
+- **Consistent** → Requirements should have **no conflicts or contradictions**. 
+⚠️ **In practice:** Because software and its environment are complex, it is **almost impossible to make requirements 100% complete and consistent**.
+
+👉 **Remember:**
+ **Complete = Everything included**
+ **Consistent = Nothing conflicts**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_f47Hzo83XsUL_sngPciOk.png?ixlib=js-3.8.0 "image.png")
+
+### Non-Functional Requirements — Short 📋
+**Non-functional requirements** describe **how well the system should work** and the **constraints** it must follow.
+
+-  Define properties like **reliability, response time, and storage**. 
+-  May specify constraints such as **I/O devices, programming language, IDE, or development method**. 
+-  Can be **more critical than functional requirements**—if not satisfied, the system may be useless. 
+-  Usually apply to the **whole system**, not just one feature. 
+**Examples:**
+
+-  System should be **available and responsive** and should not frequently crash. 
+- **Usability** → System should be easy and user-friendly.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_yyXzHZf2HtLUhSGTbDxid.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_ixCq835fnX_AgToFFg-7f.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_zAV3i-jKZpjvOJhKCJ9cI.png?ixlib=js-3.8.0 "image.png")
+
+### Non-Functional Requirements Implementation — Short 📋
+- **Affects overall architecture:** Non-functional requirements can affect the **entire system design**, not just one component. 
+- **Example:** For better **performance**, components may be designed to communicate less with each other. 
+- **Security can create functional requirements:** A security requirement may require new system services/functions. 
+-  It can also **restrict existing requirements**.
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_UNTyRU_TTslposOaTPV8w.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_eGtxKZ25lqcRjmLu1LCAs.png?ixlib=js-3.8.0 "image.png")
+
+| Type | Meaning | Example |
+| ----- | ----- | ----- |
+| **Product Requirements** | <p>How the </p><p>**product should behave**</p> | Speed, reliability |
+| **Organizational Requirements** | <p>Requirements based on </p><p>**company policies/procedures**</p> | Process standards, implementation requirements |
+| **External Requirements** | <p>Requirements coming from </p><p>**outside the system/organization**</p> | Interoperability, laws/legislation |
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_4l1ac4XIsYWxOZFT0_B0M.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_8BE4_1ABjKPOCp-RQQz-B.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_bM9wp_gGlGJM1xe5Mo-Rv.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_DabR_psNay-cF72TPYl23.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_jNez_tGwWKQxtFTb4t3p5.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_Kc8Z1fPXmq4sqLOTPu1Aw.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_t2cGT0tVczLEbXeWYvkpK.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_d1vIzNvm6BkvFCwFr8UcV.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_Pub-8YO0ejb3U4wCY400G.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_qcHf_ukY4dYNvEFEsisl9.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_ZEsUrMw4rFv-x-yVlrxxA.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_EpoIPViblxbNKvr7cPeDu.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_fm8X-aD7VZ5cdpKFbgWl4.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_5g_8TgOxumSXhjFBC0Ysh.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_o1k0diOcsQXBT4JbyPJj-.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_jL2XSrgOdIUcvFMOrpQiw.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_Z05oQEKTp7xLBagB0v1-_.png?ixlib=js-3.8.0 "image.png")
+
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_0h6tiqBXCpOOipiARD0RL.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_jUSG4JmHvoLa5XDfu3Yc7.png?ixlib=js-3.8.0 "image.png")
+
+
+
+
+
