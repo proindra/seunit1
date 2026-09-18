@@ -361,5 +361,310 @@ So, as the spiral moves outward, the software development progresses through mor
 
 ![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_CKgo-gh-o9KbHHe6YSH6z.png?ixlib=js-3.8.0 "image.png")
 
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_8O_vXnSJuyu236gf8Eu74.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_EzimOnm3UG8N-Lnhi4b-X.png?ixlib=js-3.8.0 "image.png")
+
+This slide shows **how security is added to each stage of SDLC**.
+
+- **Requirements:** Identify security requirements and analyse risks. 
+- **Architecture & Design:** Plan the system securely based on the risk analysis. 
+- **Implementation:** Write code and prepare test plans; use **static analysis** to find code issues. 
+- **Verification:** Test whether security requirements are satisfied using **risk-based security tests and penetration testing**. 
+- **Release & Maintenance:** Release the software and continue **patching and maintaining** security.
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_G_ra2Hu9b7l1vPTUs4WLU.png?ixlib=js-3.8.0 "image.png")
+
+Before starting software development, **everyone must receive security training**.
+
+Main topics:
+
+- **Threat Modelling** → identify possible threats. 
+- **Secure Coding** → avoid coding vulnerabilities like buffer overruns and XSS. 
+- **Privacy** → understand sensitive data and how to protect it.
+### 1. Buffer Overflow
+A **buffer** is a small area of memory used to temporarily store data.
+
+### 2. Cross-Site Scripting (XSS)
+**XSS** is a web security vulnerability where an attacker manages to make a website **execute malicious JavaScript in another user's browser**.
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_nFXwT9Vi2bdxEB-5Jc2Lt.png?ixlib=js-3.8.0 "image.png")
+
+### Phase 1: Requirements
+This phase focuses on **finding security requirements before development**.
+
+-  Identify which parts of the software need **detailed security review**. 
+-  Decide where **penetration testing** is needed before release. 
+-  Perform **Threat Modeling** → identify possible attacks/threats. 
+-  Perform **Security Risk Assessment (SRA)** → identify and evaluate security risks. 
+👉 **Viva answer:**
+
+>  **In the Requirements phase, we identify security risks and define the security requirements of the software before development starts.**
+
+Here, we decide **how to build the software securely**.
+
+
+
+### Phase 2: Design
+1. Attack Surface Reduction
+
+Reduce the number of places an attacker can target.
+
+👉 **Less attack surface = fewer opportunities for attack.**
+
+### 2. Defense in Depth
+Use **multiple layers of security**.
+
+👉 If one security layer fails, another layer can still protect the system.
+
+### 3. Risk Analysis
+Analyse components/features that have **important security risks** and address them during design.
+
+👉 **Viva answer:**
+
+>  **The Design phase ensures that security is built into the system architecture using attack-surface reduction, multiple security layers, and risk analysis.**
+
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_NDzoEYRJQhb0ohY_pK4Yr.png?ixlib=js-3.8.0 "image.png")
+
+### Phase 3: Implementation
+This phase is about **writing the code securely**.
+
+-  Use **approved tools** with proper security settings and warnings. 
+-  Check all **functions and APIs** and avoid unsafe ones. 
+-  Scan the code for prohibited/unsafe functions and fix them. 
+-  Perform **Static Analysis** → examine the code without running it to find security problems. 
+👉 **Viva answer:**
+
+>  **Implementation ensures that developers use secure tools and APIs and scan the source code for security vulnerabilities.**  
+
+### Phase 4: Verification
+This phase is about **testing the software for security problems**.
+
+- **Dynamic Analysis:** Check the application while it is running for issues such as memory corruption and privilege problems. 
+- **Fuzz Testing:** Give the application **random or malformed inputs** and observe whether it fails or behaves unexpectedly. 
+- **Update Threat Model:** After design/code changes, check again for **new threats and attacks**. 
+👉 **Viva answer:**
+
+>  **Verification tests the running software, finds security vulnerabilities, and ensures newly introduced risks are identified and fixed.** 
+
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_-q-d6Rcv8keEMgHzf6qji.png?ixlib=js-3.8.0 "image.png")
+
+### Phase 4: Release
+This is the **final stage before and during software release**. The main focus is being prepared to handle security incidents.
+
+- **Incident Response Plan:** Have a clear plan for what to do if a security problem occurs. 
+- **First point of contact:** Know who should be contacted during an emergency. 
+- **24-hour on-call team:** People with authority should be available to respond to serious incidents. 
+- **Inherited/third-party code:** Have plans to maintain and fix security issues in code received from other teams or external sources. 
+- **Final Security Review (FSR):** Before release, review the **threat model, security-tool results, quality checks, and remaining bugs**.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_n50sUBWVcZVNzu8rLi-_t.png?ixlib=js-3.8.0 "image.png")
+
+The **4 Ps** are a framework used to understand the four important parts of a software project:
+
+1. **People** 👥 
+2. **Process** ⚙️ 
+3. **Product** 💻 
+4. **Project Environment** 🌍 
+They help a project manager **plan, execute, and control** a project effectively. 
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_JXRSkPtSvbs0SlnFNeyrF.png?ixlib=js-3.8.0 "image.png")
+
+**People are the backbone of a project.**
+
+- **Project Team:** The people who **build and complete the software** using their skills. 
+- **Stakeholders:** People who **have an interest in the project**, such as **sponsors, clients, end-users, and vendors**. 
+👉 **Remember:** **Team = Builds | Stakeholders = Interested**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_DPZMylnmZfo-lzPkPCvGt.png?ixlib=js-3.8.0 "image.png")
+
+- **Stakeholders:** Their **needs and expectations** affect the project’s goals and direction. 
+- **Project Manager:** Coordinates everyone and **plans, communicates, and leads** the project. 
+- **Collaboration:** Team members must **work together, share knowledge, solve conflicts, and exchange ideas**. 
+👉 **Remember:** **Stakeholders set expectations → Manager coordinates → Team collaborates.** 
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_BUPtnqpanc4CERvMYQABI.png?ixlib=js-3.8.0 "image.png")
+
+- **Communication:** Everyone should understand the **goals, progress, and problems** of the project.
+- **Leadership:** The project manager **guides and motivates** the team. 
+- **People are important:** They bring **skills, creativity, and energy** to the project. 
+- **Main idea:** A project's success depends greatly on its **people**. 
+👉 **Remember:** **Communication + Leadership + Teamwork = Project Success**.
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_NXY79HjT6ZLR_uZvLz9_G.png?ixlib=js-3.8.0 "image.png")
+
+### 4 Ps – Process ⚙️
+**Process means the methods and steps used to manage a project from start to finish.**
+
+- **Project Management Process:** Acts like a **roadmap** for the project. 
+-  It uses different **methods and strategies** to complete the project smoothly. 
+- **Agile:** Flexible and can adapt to changes. 
+- **Waterfall:** Follows a **fixed, step-by-step sequence**. 
+-  The process is chosen according to the **project’s needs and challenges**. 
+👉 **Remember:**
+ **Process = How we manage the project**
+
+**Agile = Flexible 🔄 | Waterfall = Sequential ➡️**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_DOEC7I7_Strp1vVRnPQUr.png?ixlib=js-3.8.0 "image.png")
+
+A project goes through **5 main stages**, from beginning to end:
+
+1. **Initiation** → Define the project and get approval. 
+2. **Planning** → Decide **how to achieve the goals**. 
+3. **Execution** → Do the **actual work**. 
+4. **Monitoring** → Check progress and make necessary changes. 
+5. **Closure** → Finish the project and complete the remaining work. 
+👉 **Remember:**
+ **I → P → E → M → C**
+ **Initiation → Planning → Execution → Monitoring → Closure**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_xHyP8UNu7UAqAhJ8BSeJd.png?ixlib=js-3.8.0 "image.png")
+
+Projects can face **unexpected changes and problems**, like a roller coaster.
+
+- **Change Management:** Helps handle unexpected changes without losing the project goals. 
+-  Changes can happen in: 
+    - **Scope** → what the project includes 
+    - **Schedule** → project timeline 
+    - **Resources** → people, money, or materials 
+
+-  A good process should be **structured but flexible**. 
+-  Every project is **unique**, so its process should be adapted to its needs. 
+👉 **Remember:**
+ **Good Process = Structure + Flexibility → Achieve Project Goals** 
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_cfhyM3KeiFpjWvVGd1cjq.png?ixlib=js-3.8.0 "image.png")
+
+### 4 Ps – Product 💻
+**Product means the final outcome of the project that provides value to the stakeholders.**
+
+-  It is the **main result** the project is created to deliver. 
+-  It can be a **software application, service, physical product, or report**. 
+- **Deliverables** are the specific outputs promised by the project. 
+-  Stakeholders can **see and evaluate** these deliverables. 
+👉 **Remember:**
+ **Product = Final Outcome**
+ **Deliverables = Specific Outputs**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_XNERQxtkPizVRghDQG1vh.png?ixlib=js-3.8.0 "image.png")
+
+Creating the product is **not enough**; it must also have good **quality**.
+
+- **Quality:** The product should meet the **requirements and expectations** of the customer. 
+-  A software full of bugs is **not a successful product**. 
+- **Scope:** Defines the **boundaries and objectives** of the project. 
+-  It specifies **what work, features, and constraints** are included. 
+-  Think of **scope as the blueprint** of the project. 
+👉 **Remember:**
+ **Product = Deliverable + Quality + Scope**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_MM0t2hJFy9TQvRpySdj_7.png?ixlib=js-3.8.0 "image.png")
+
+The main point is that **scope must be clearly defined**.
+
+- **Unclear scope** → can cause **higher costs, delays, and unhappy stakeholders**. 
+-  A good **Product** consists of: 
+    - **Well-defined deliverables**
+    - **High quality**
+    - **Well-managed scope**
+
+-  The final product should **meet requirements, satisfy stakeholders, and provide value**. 
+👉 **Remember:**
+ **Product = Deliverables + Quality + Scope → Value**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_sj3f6kD0Z_sMP8O8AKaa2.png?ixlib=js-3.8.0 "image.png")
+
+### 4 Ps – Project Environment 🌍
+**Project Environment means the internal and external factors that can affect a project.**
+
+- **Internal factors:** Organization’s **culture, structure, policies, and procedures**. 
+    -  Example: An innovative company may encourage **experimentation and risk-taking**. 
+    -  A conservative company may follow **strict rules and standards**. 
+
+- **External factors:** Things **outside the organization** that affect the project. 
+    - **Market conditions**
+    - **Government/regulatory requirements**
+    - **Technology changes**
+    - **Competition**
+
+👉 **Remember:**
+ **Internal = Organization 🏢 | External = Outside influences 🌍**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_Gd0qMGGGoottCKV9wHYa2.png?ixlib=js-3.8.0 "image.png")
+
+This part explains **changes and risks** that can affect a project.
+
+- **Market changes:** A change in market trends may require changing the project’s direction. 
+- **New regulations:** A new law or rule may require changes to the project’s deliverables. 
+### Risk Management ⚠️
+Risk management means:
+
+1. **Identify** → Find what could go wrong. 
+2. **Assess** → Understand how serious the risk is. 
+3. **Mitigate** → Take steps to reduce or manage the risk. 
+**Example:** Keep a **Plan B** for an important task in case something fails.
+
+👉 **Remember:**
+ **Risk Management = Identify → Assess → Mitigate**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_De3uA8Z7aSHyl30j_ap72.png?ixlib=js-3.8.0 "image.png")
+
+This part explains that **all factors in the project environment are connected**.
+
+- **Internal factors** can affect how risks are managed. 
+- **External factors** can create **new risks** or force changes in company policies. 
+-  The **project manager** must understand these factors, predict possible problems, and adjust the project when needed. 
+-  Project management is not only about tasks—it is also about understanding the **bigger picture**. 
+👉 **Remember:**
+ **Understand Environment → Identify Risks → Adapt → Better Project Outcome**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_UAiR8PwtIhWQji7ULIsyy.png?ixlib=js-3.8.0 "image.png")
+
+## Agile Philosophy ⚡
+**Agile is an umbrella term** for different software development methods.
+
+Its main idea is:
+
+- **Continuously adjust** development according to customer needs. 
+-  Avoid too much planning so the team can **respond quickly to changes**. 
+Examples: **Scrum, XP, FDD, DSDM, RUP**. 
+
+### 🧠 Remember:
+**Agile = Flexible + Customer-focused + Quick response**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_G4kQhIQONUMbNPi8YvjQJ.png?ixlib=js-3.8.0 "image.png")
+
+## Agile Philosophy — Key Words
+Agile is **not one specific process**. It is a **set of values/philosophy**.
+
+Key words:
+
+- **Rapid** → develop quickly 
+- **Iterative** → develop in repeated cycles 
+- **Cooperative** → work together 
+- **Quality-driven** → focus on quality 
+- **Adaptable** → easily handle changes 
+👉 **Viva:**
+
+>  **Agile is a philosophy that focuses on rapid, iterative, cooperative, quality-driven and adaptable development.**
+
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_E57YZtc-HnUod0-WJwA16.png?ixlib=js-3.8.0 "image.png")
+
+##  Agile Manifesto 📜
+Agile gives **more importance to the items on the left**:
+
+| Agile values more | Over |
+| ----- | ----- |
+| **Individuals & interactions** | Processes & tools |
+| **Working software** | Comprehensive documentation |
+| **Customer collaboration** | Contract negotiation |
+| **Responding to change** | Following a plan |
 
 
