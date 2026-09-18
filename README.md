@@ -668,3 +668,401 @@ Agile gives **more importance to the items on the left**:
 | **Responding to change** | Following a plan |
 
 
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_YKLpXNeHjdK2MeFKFnLPy.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_9lpk_hhwhb8Wops7Gh7E4.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_4cgx7_tI9SMs_oYNDIVfH.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_NZVql7A7Twrw56vBculkt.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_ZPfelctkd9AJtO3olC18w.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_pOooYGF3y8badsukB4QQ1.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_kXVZ3PjtfMCyFX0fsWNRP.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image__AyTUbPR0bV5U4DsRkVrr.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_pJOVLB9t9dU6F0I6xK3AF.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_6n_sOxtqXt8s2SToEO4sD.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_V3gEGjwhvclKCGSjUmA2U.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_qRTY-Ktauf6xw63EqVib8.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_eW9FCb9fZi2Ukgx0Hjird.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_Ee2mcFX3G282Q3YSxHQee.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_uQswP2DfOmPX6Qh96mxTQ.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_s-ev3YcB9S3C8YFK3kJzS.png?ixlib=js-3.8.0 "image.png")
+
+## User Story – INVEST Guidelines 📝
+**INVEST** is a set of **6 guidelines for writing a good User Story** in Agile. 
+
+- **I – Independent:** Should be developed **without depending heavily on another story**. 
+- **N – Negotiable:** Details can be **discussed and changed** with the team/customer. 
+- **V – Valuable:** Must provide **value to the user/customer**. 
+- **E – Estimable:** The team should be able to **estimate the effort** required. 
+- **S – Small:** Should be **small enough to complete within a Sprint**. 
+- **T – Testable:** There should be a clear way to **test whether it is completed correctly**. 
+### 🧠 Easy way to remember:
+**I N V E S T = Independent, Negotiable, Valuable, Estimable, Small, Testable**
+
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_TcdG21o2oq_sU6ZxdeAkZ.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_TiBX7Jlag4usyKaS_2Pkk.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_JHlsAW6Lzx_kfBELCUiyf.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_0spIlQGpX222yxXD485mP.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_d-mFQyBvNCFz0uHppiCHn.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_AhTLqtdVGi0TXteC50gX_.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_3BaHQa-_cBbrF_C-pHWzD.png?ixlib=js-3.8.0 "image.png")
+
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_Sf7HaXzbCYXYL0MW5XJKK.png?ixlib=js-3.8.0 "image.png")
+
+### Agile Methodology – Extreme Programming (XP) ⚡
+**Extreme Programming (XP)** is an **Agile software development methodology**.
+
+Its main goal is to help **small to medium-sized teams**:
+
+-  Develop **high-quality software**
+- **Adapt quickly** when requirements change 
+-  Follow **values, principles, and practices** to guide development 
+👉 **Simple definition for exam/viva:**
+
+>  **XP is an Agile methodology that helps small and medium teams develop high-quality software while adapting to changing requirements.** 
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_1l5UqTHTUQ8TVesmoFEyi.png?ixlib=js-3.8.0 "image.png")
+
+### 1. XP Values — 5 important values
+- **Communication** 🗣️ → Team members communicate with each other. 
+- **Simplicity** → Keep the software and work as simple as possible. 
+- **Feedback** 🔄 → Get regular feedback to improve the software. 
+- **Courage** 💪 → Have the courage to make necessary changes and decisions. 
+- **Respect** 🤝 → Respect team members and their contributions. 
+### 2. XP Principles
+These values are applied through principles such as:
+
+- **Incremental Changes** → Make changes in small steps. 
+- **Embracing Change** → Accept and adapt to changing requirements. 
+- **Assumed Simplicity** → Prefer the simplest solution. 
+- **Quality Work** → Focus on producing good-quality software. 
+- **Rapid Feedback** → Get feedback quickly and use it for improvement.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_Z7zUd3TQscR2OfPKkafp1.png?ixlib=js-3.8.0 "image.png")
+
+### XP Planning Game 🎯
+There are **2 levels**:
+
+1. **Release Planning** → Decide **what features** to deliver and **when**. 
+2. **Iteration Planning** → Select valuable features, **break them into tasks**, estimate, and commit to completing them. 
+👉 **Remember:** **Release = What & When | Iteration = Tasks & Commitment**.
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_YGKisEW8SdKsOlvFvmHnE.png?ixlib=js-3.8.0 "image.png")
+
+**Simple Design means starting with a simple design instead of creating a complex architecture upfront.**
+
+-  Design **evolves gradually** through iterations. 
+-  Code is **frequently refactored** to keep it maintainable. 
+- **Spike:** A small test or proof-of-concept used to check an idea, understand complexity, and help the team estimate the work.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_r1cmtVscd1-jVXRR2nPKL.png?ixlib=js-3.8.0 "image.png")
+
+### XP Core Practice #3 — Test-Driven Development (TDD) 🧪
+**TDD means writing the test before writing the actual code.**
+
+### Basic steps:
+1. **Write the test first**. 
+2.  Write the **minimum code** needed to pass the test. 
+3. **Refactor and improve** the code while ensuring all tests still pass. 
+### Main benefit:
+Developers write **only the code needed to satisfy the tests**, and automated tests help during building and integration.
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_0xoOc-owtTEWu2qxcr5zd.png?ixlib=js-3.8.0 "image.png")
+
+### XP Core Practice #4 — Code Standard 💻
+**Code standards are common rules for writing code in a consistent way.**
+
+-  All developers follow the **same coding style**. 
+-  Maintains consistency in **naming, code style, exception handling, and parameters**. 
+-  Makes code **easier to understand and maintain**. 
+-  Helps find problems **quickly**. 
+-  Standards should be **agreed upon before coding starts**.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_0emnpCQkjqjHKZmFYCGj9.png?ixlib=js-3.8.0 "image.png")
+
+### XP Core Practice #5 — Refactoring 🔄
+**Refactoring means restructuring existing code to improve its quality without changing what it does.**
+
+-  Remove **duplicate code/functions**. 
+-  Avoid **long functions or methods**. 
+-  Remove **unnecessary variables**. 
+-  Use **access modifiers properly**. 
+-  Makes code **cleaner, simpler, and easier to understand**.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_AaRUYZVlWwsV3eWMwJnuZ.png?ixlib=js-3.8.0 "image.png")
+
+### XP Core Practice #6 — Pair Programming 👥💻
+**Pair Programming** means **two programmers work together on the same code**.
+
+- **Pilot:** Writes and runs the code, focusing on implementation. 
+- **Navigator:** Reviews the code, thinks about the bigger picture, and suggests improvements. 
+-  They **switch roles regularly**. 
+-  Pairs are also changed frequently so that **everyone understands different parts of the system**. 
+👉 **Remember:**
+ **Pilot = Writes code | Navigator = Reviews code | Switch roles = Shared knowledge**.
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_ZsqFOP9kI4DGTKdy9Wik-.png?ixlib=js-3.8.0 "image.png")
+
+### XP Core Practice #7 — Collective Code Ownership 👥💻
+**Collective code ownership** means the **whole team owns the code**, not one particular developer.
+
+-  Success or failure is a **team responsibility**. 
+-  There is **no blame game**. 
+-  Any developer can **fix any bug or issue**. 
+👉 **Remember:**
+ **Everyone owns the code → Everyone can fix it.**
+
+---
+
+### XP Core Practice #8 — Continuous Integration 🔄
+**Continuous Integration (CI)** means developers **frequently integrate their code changes** into the main project.
+
+-  Changes are integrated **every few hours or daily**. 
+-  The entire project is **built and tested automatically**. 
+-  If a test fails, it is **fixed immediately**. 
+-  This helps prevent defects from spreading and reduces problems later.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_VFcVCkQIk6hhrNnKVvOvi.png?ixlib=js-3.8.0 "image.png")
+
+### XP Core Practice #9 — Small Release 🚀
+**Small Release** means releasing a **small, working version (MVP)** of the software frequently.
+
+-  Break complex work into **small chunks**. 
+-  Focus on the **highest-priority work first**. 
+-  Helps developers and customers **see and evaluate the product quickly**. 
+👉 **Remember:**
+ **Small work → Frequent release → Quick feedback**
+
+---
+
+### XP Core Practice #10 — System Metaphor 💡
+**System Metaphor** means using **simple names and ideas** that both users and developers can easily understand.
+
+-  Makes user stories and code **easy to relate to**. 
+-  Creates a **common understanding** among the team. 
+-  Example: `Order_Food()`  clearly means **ordering food**. 
+👉 **Remember:**
+ **Simple name → Easy understanding → Better communication**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_t5Y2n6Q4la0HI-nmtgcK2.png?ixlib=js-3.8.0 "image.png")
+
+### XP Core Practice #11 — Onsite Customer 👤
+**Onsite Customer** is a person who works closely with the development team and represents the customer.
+
+-  Defines the **vision and user stories**. 
+-  Defines **acceptance criteria** and **Definition of Done**. 
+-  Helps with **release planning**. 
+-  Understands the product/domain and helps decide what should be delivered first. 
+- **On-site** means the customer or representative is available with the team, so communication is easy. 
+-  If the customer cannot be full-time, **proxies** such as product managers, product owners, UI/UX designers, or business analysts may represent them. 
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_-nEdO42fUuG2aJuLWaxl9.png?ixlib=js-3.8.0 "image.png")
+
+### XP Core Practice #12 — Sustainable Pace 🧘
+**Sustainable Pace** means the team works at a **steady and manageable speed** without constant pressure.
+
+-  XP includes **downtime/slack time** during an iteration. 
+-  This time acts as a **buffer for unexpected problems**. 
+-  The team can use it to: 
+    - **Refactor code**
+    -  Reduce **technical debt**
+    -  Do **research**
+
+-  Practices like **TDD, Continuous Integration, and Refactoring** also help maintain software quality and stability.
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_WED9ESAt8PVUHrnD5JZKK.png?ixlib=js-3.8.0 "image.png")
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_THZ4-Sng4qWF41pWQpk5O.png?ixlib=js-3.8.0 "image.png")
+
+### Lean-Agile ⚡
+**Lean-Agile** combines Agile ways of working with Lean principles.
+
+Its main goal is:
+
+- **Minimize waste** 🗑️ → Avoid unnecessary work. 
+- **Maximize value** 💎 → Focus on work that gives the most value. 
+- **Prioritize quality** ✅ → Deliver high-quality products and services. 
+👉 **Remember:**
+ **Lean-Agile = Less Waste + More Value + Better Quality**.
+
+
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_TzRimn2OHWfklFrZDRaFG.png?ixlib=js-3.8.0 "image.png")
+
+### 1. Eliminate Waste 🗑️
+**Waste = Anything that does not add value to the product from the customer's point of view.**
+
+Examples:
+
+-  Developing **more features than currently needed**. 
+-  Losing time when work is **passed from one team/group to another**. 
+👉 **Remember:** **Eliminate anything that doesn't add customer value.**
+
+### 2. Amplify Learning 📚
+Software development involves **learning and discovering what works**.
+
+Like a chef trying different versions of a recipe, the development team:
+
+-  Tries different solutions 
+-  Learns from the results 
+-  Improves the product based on that learning 
+👉 **Remember:** **Try → Learn → Improve → Repeat**.
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image__rGrgNR8xqeoRYxzv6Ddy.png?ixlib=js-3.8.0 "image.png")
+
+### 3. Decide as Late as Possible ⏳
+When there are **unknowns or uncertainties**, don't make decisions too early.
+
+For example:
+
+-  Which processor to use? 
+-  Which programming language? 
+-  Which screen design is better? 
+👉 **Wait until you have enough facts and feedback, then decide.**
+
+**Remember:**
+ **Don't guess early → Get information → Decide later.**
+
+---
+
+### 4. Deliver as Fast as Possible 🚀
+Develop and improve the product in **short cycles**:
+
+**Design → Implement → Get Feedback → Improve → Repeat**
+
+Fast delivery helps the team:
+
+-  Get **real customer feedback**
+-  Learn quickly 
+-  Give customers **what they need now**
+👉 **Remember:**
+ **Deliver fast → Get feedback → Learn → Improve.**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_yAyiyS4M2A0QB6wWBsaXO.png?ixlib=js-3.8.0 "image.png")
+
+### Lean-Agile Principle — Empower the Team 👥
+**Meaning:** The people doing the actual work understand the **technical details best**, so they should be involved in technical decisions.
+
+-  Give technical teams **freedom to make decisions** about their work. 
+-  They can use tools like **Kanban** to organize and schedule work. 
+-  The leader should **guide and support** the team rather than control every decision. 
+-  This helps teams make **better technical and process decisions**.
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_X7crrxBd0kEP3NnCCp4Qp.png?ixlib=js-3.8.0 "image.png")
+
+### 5. Build Integrity In 🛡️
+**Meaning:** Quality should be built into the product **from the beginning**, not added only at the end.
+
+For software, it should be:
+
+- **Usable**
+- **Maintainable**
+- **Adaptable**
+- **Extensible**
+-  Have a **coherent architecture**
+For the team, integrity comes from:
+ **Good leadership + Expertise + Communication + Discipline**
+
+👉 **Remember:**
+ **Build quality into the product from the start.**
+
+---
+
+### 6. Optimize the Whole 🌐
+**Meaning:** Don't focus only on one team or one part of the project. Look at the **performance of the entire project**.
+
+-  Different teams should work toward the **common goal**. 
+-  Don't optimize one person's or department's work at the expense of the whole project. 
+-  Measure **overall project performance**, not just individual contributions. 
+👉 **Remember:**
+ **Don't optimize one part → Optimize the whole project.**
+
+![image.png](https://eraser.imgix.net/workspaces/j7PRLB7uMxm51apemWjs/OjlBWCdDlRWI9XasvFYbqcu7aSX2/image_nqI1cuez5La9Aki6q0qND.png?ixlib=js-3.8.0 "image.png")
+
+**One-line memory:**
+
+>  **XP = Simple design + Continuous testing + Teamwork + Frequent feedback + Small releases + Adaptability.**
+
+| **Topic** | **Short & Best Explanation** |
+| ----- | ----- |
+| **XP** | <p>An </p><p>**Agile methodology**</p><p> for small-to-medium teams that focuses on </p><p>**high-quality software**</p><p> and adapting to changing requirements.</p> |
+| **XP Values** | **Communication, Simplicity, Feedback, Courage, Respect** |
+| **1. Planning Game** | <p>**Release Planning:**</p><p> What & when to deliver. </p><p>**Iteration Planning:**</p><p> Tasks, estimation & commitment.</p> |
+| **2. Simple Design** | <p>Start with a </p><p>**simple design**</p><p> and improve it gradually. </p><p>**Spike**</p><p> is a small experiment to test an idea.</p> |
+| **3. TDD** | <p>Write </p><p>**tests before code**</p><p> → Write minimum code → Refactor.</p> |
+| **4. Code Standard** | <p>Follow common coding rules for </p><p>**style, naming, exceptions, parameters**</p><p>, etc.</p> |
+| **5. Refactoring** | <p>Improve code </p><p>**quality and readability without changing its behavior**</p><p>.</p> |
+| **6. Pair Programming** | <p>Two programmers work together: </p><p>**Pilot writes code**</p><p>, </p><p>**Navigator reviews**</p><p>. They switch roles.</p> |
+| **7. Collective Code Ownership** | <p>The </p><p>**whole team owns the code**</p><p>; any developer can fix any part.</p> |
+| **8. Continuous Integration** | <p>Frequently integrate code → </p><p>**Build → Run tests → Fix failures immediately**</p><p>.</p> |
+| **9. Small Release** | <p>Release a </p><p>**small working product/MVP frequently**</p><p> to get feedback quickly.</p> |
+| **10. System Metaphor** | <p>Use </p><p>**simple names and concepts**</p><p> that users and developers can easily understand.</p> |
+| **11. Onsite Customer** | <p>Customer/representative works closely with the team and helps define </p><p>**vision, stories, acceptance criteria and releases**</p><p>.</p> |
+| **12. Sustainable Pace** | <p>Maintain a </p><p>**steady working pace**</p><p> with some buffer time for problems, refactoring and research.</p> |
+| **Remember** | **Meaning** |
+| ----- | ----- |
+| **Planning Game** | Plan the work |
+| **Simple Design** | Keep design simple |
+| **TDD** | Test before code |
+| **Code Standard** | Common coding rules |
+| **Refactoring** | Improve existing code |
+| **Pair Programming** | Two people, one code |
+| **Collective Ownership** | Everyone owns code |
+| **Continuous Integration** | Integrate & test frequently |
+| **Small Release** | Release small versions often |
+| **System Metaphor** | Simple/common terminology |
+| **Onsite Customer** | Customer works with team |
+| **Sustainable Pace** | Work at a steady pace |
+| **Principle** | **Short & Best Explanation** |
+| ----- | ----- |
+| **Lean-Agile** | <p>A set of principles and practices that aims to </p><p>**minimize waste and maximize value**</p><p>, while making quality a priority.</p> |
+| <p>**1. Eliminate Waste**</p><p> 🗑️</p> | <p>Remove anything that </p><p>**doesn't add value to the customer**</p><p>, such as unnecessary features or delays.</p> |
+| <p>**2. Amplify Learning**</p><p> 📚</p> | <p>**Try → Learn → Improve**</p><p> through experimentation and feedback.</p> |
+| <p>**3. Decide as Late as Possible**</p><p> ⏳</p> | <p>Don't make decisions too early when there are unknowns. </p><p>**Wait for facts and feedback**</p><p> before deciding.</p> |
+| <p>**4. Deliver as Fast as Possible**</p><p> 🚀</p> | <p>Use short cycles: </p><p>**Design → Implement → Feedback → Improve**</p><p>.</p> |
+| <p>**5. Empower the Team**</p><p> 👥</p> | <p>Let the people doing the work </p><p>**participate in technical and process decisions**</p><p>. Leaders guide and support them.</p> |
+| <p>**6. Build Integrity In**</p><p> 🛡️</p> | <p>Build </p><p>**quality into the product from the beginning**</p><p>. Software should be usable, maintainable, adaptable and extensible.</p> |
+| <p>**7. Optimize the Whole**</p><p> 🌐</p> | <p>Look at the </p><p>**overall project performance**</p><p>, rather than optimizing only one team or specialized area.</p> |
+| **Principle** | **Remember as** |
+| ----- | ----- |
+| Eliminate Waste | **Remove unnecessary work** |
+| Amplify Learning | **Try → Learn → Improve** |
+| Decide Late | **Don't guess early** |
+| Deliver Fast | **Fast feedback** |
+| Empower Team | **Team participates in decisions** |
+| Build Integrity | **Quality from the beginning** |
+| Optimize Whole | **Focus on the entire project** |
+### 🎤 One-line Viva Answer
+>  **Lean-Agile focuses on minimizing waste, maximizing customer value, improving quality, learning continuously, delivering quickly, empowering teams, and optimizing the whole project.**
+
+
+
